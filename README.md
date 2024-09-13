@@ -1,8 +1,8 @@
 -------
 ! -------------------------
-- ⚡ Fast Tweak Ever
-- ⚡ CPU OPTIMIZER
-- ⚡ FPS BOOSTER
+- ⚡ Programmer
+- ⚡ Cracking RATS
+- ⚡ REVERSE ENGINIEER
 - ⚡ And Many More >>>>
   --------
   ----------
